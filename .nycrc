@@ -1,0 +1,16 @@
+{
+  "branchs":100,
+  "lines":100,
+  "functions":100,
+  "statements":100,
+  "checkCoverage":true,
+  "reporter":[
+    "html",
+    "text"
+  ],
+  "exclude": [
+    "**/*.spec.js",
+    "**/*.test.js",
+    "**/BaseRepository.js"
+  ]
+}

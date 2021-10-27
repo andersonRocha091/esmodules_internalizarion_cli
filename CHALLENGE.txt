@@ -1,0 +1,2 @@
+IMPLEMENT all tests for all classes created
+repository pattern: https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e
